@@ -1,0 +1,8 @@
+view PageContent{
+    type = "h1"
+    content = "Hello World!"
+}
+
+page index{
+    body = PageContent
+}
